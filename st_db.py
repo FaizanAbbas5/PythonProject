@@ -149,6 +149,7 @@ if __name__ == "__main__":
             print("")
         elif option == "5":
             print("Good bye!")
+            print("Thank you")
             exit()
         else:
             print("You have entered the wrong value")
