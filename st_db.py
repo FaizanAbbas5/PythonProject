@@ -148,7 +148,6 @@ if __name__ == "__main__":
             print("Employee Deleted")
             print("")
         elif option == "5":
-            print("Good bye!")
             print("Thank you")
             exit()
         else:
